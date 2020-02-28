@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Developed by Haerul Muttaqin
+  Last modified 2/28/20 2:25 PM
+  Subscribe : https://www.youtube.com/haerulmuttaqin
+  Copyright (c) 2020. All rights reserved
+  -->
+
+<resources>
+    <item name="titleCategory" type="id">titleCategory</item>
+</resources>
