@@ -25,5 +25,10 @@ public interface HomeView {
      * 5. and, Behavior when an error occurs when requesting data to the API
      */
     // TODO 14 showLoading()
+void showLoading();
+void  hideLoading();
+void setMeal(List<Meals.Meal> meal);
+void setCategory(List<Categories.Category> category);
+void onErrorLoading(String message);
 
 }
